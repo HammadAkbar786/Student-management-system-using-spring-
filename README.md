@@ -1,0 +1,1 @@
+The School Management System (SMS) serves as an integrated platform designed to revolutionize administrative functions within educational institutions. Developed with the objective of enhancing operational efficiency and organizational coherence, the system leverages the robust capabilities of XAMPP as its database management system, ensuring a reliable and scalable foundation.
